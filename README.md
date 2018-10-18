@@ -1,4 +1,4 @@
-# isProcessRunning.exe
+# isProcessRunning.exe [![Build status](https://ci.appveyor.com/api/projects/status/1itp9aqicg6bapf2?svg=true)](https://ci.appveyor.com/project/MarkTiedemann/isprocessrunning-exe)
 
 ```
 Usage: isProcessRunning.exe <pid>
